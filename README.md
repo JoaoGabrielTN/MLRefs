@@ -1,12 +1,15 @@
 # Machine Learning
-|   Work    |  Year  |  Type   |
-| :-------: | :----: | :-----: |
-|  [Pea01]  |  1901  | Article |
-|  [Hot33]  |  1933  | Article |
-|  [Qui86]  |  1986  | Article |
-|  [QUi93]  |  1993  | Book    |
+|   Work    |  Year  |  Type   |  Pages  |
+| :-------: | :----: | :-----: | :-----: |
+|  [Pea01]  |  1901  | Article |   13    |
+|  [Hot33]  |  1933  | Article |   24    |
+|  [Qui86]  |  1986  | Article |   25    |
+|  [QUi93]  |  1993  | Book    |   302   |
+|  [Bre01]  |  2001  | Article |   27    |
 
 ## References 
+
+Breiman, L. Random Forests. _Machine Learning_ 45, 5–32 (2001). https://doi.org/10.1023/A:1010933404324
 
 Hotelling, H. (1933) Analysis of a complex of statistical variables into principal components. _Journal of Educational Psychology_, 24, 417-441.
 http://dx.doi.org/10.1037/h0071325
@@ -18,15 +21,15 @@ Quinlan, J. R. Induction of decision trees. _Machine Learning_ 1, 81–106 (1986
 Quinlan J. R. 1993. C4.5: Programs for Machine Learning. Morgan Kaufmann Publishers, San Mateo, CA.
 
 # Deep Learning
-|   Work    |  Year  |  Type   |
-| :-------: | :----: | :-----: |
-|  [Tho11]  |  1911  | Book    |
-|  [MP43]   |  1943  | Article |
-|  [Heb49]  |  1949  | Book    |
-|  [Ros58]  |  1958  | Article |
-|  [Hub59]  |  1959  | Article |
-|  [HW59]   |  1959  | Article |
-|  [WH60]   |  1960  | Article |
+|   Work    |  Year  |  Type   |  Pages  |
+| :-------: | :----: | :-----: | :-----: |
+|  [Tho11]  |  1911  | Book    |   328   |
+|  [MP43]   |  1943  | Article |   18    |
+|  [Heb49]  |  1949  | Book    |   335   |
+|  [Ros58]  |  1958  | Article |   22    |
+|  [Hub59]  |  1959  | Article |   12    |
+|  [HW59]   |  1959  | Article |   17    |
+|  [WH60]   |  1960  | Article |   
 |  [Ros62]  |  1962  | Book    |
 |  [MP69]   |  1969  | Book    |
 |  [Fuk75]  |  1975  | Article |
